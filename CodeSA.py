@@ -20,7 +20,7 @@ for word in portugues_stops:
 	
 tokenizer = WordPunctTokenizer()
 portugues_stop3 = tokenizer.tokenize(portugues_stop2)
-var_file = open("D:\stopwords_portuguese.txt", "a")
+var_file = open("D:\xxx.txt", "a")
 for word in portugues_stop3:
 	var_file.write(word.lower()+'\n')
 var_file.close()

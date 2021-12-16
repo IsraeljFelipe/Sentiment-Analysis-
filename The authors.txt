@@ -1,0 +1,13 @@
+About the authors:
+
+1- Aguiar, Marcelo Otone (orcid.org/0000-0002-6425-0012), UFES - Brazil.
+
+2- Felipe, Israel José dos Santos (orcid.org/0000-0001-8608-0029), UFRN - Brazil. 
+
+3- Mendes-Da-Silva, Wesley (orcid.org/0000-0002-5500-4872), FGV/EAESP - Brazil.
+
+4- Leal, Cristiana Cerqueira (orcid.org/0000-0003-3731-0240), NIPE/UMinho - Portugal. 
+
+_______________
+
+Aguiar, Felipe, Mendes-Da-Silva and Leal (2021). Sentiment analysis with python. In: Github.

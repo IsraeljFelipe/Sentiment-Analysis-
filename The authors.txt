@@ -1,9 +1,0 @@
-About the authors:
-
-1- Felipe, Israel José dos Santos (orcid.org/0000-0001-8608-0029), UFRN - Brazil. 
-
-2- Aguiar, Marcelo Otone (orcid.org/0000-0002-6425-0012), UFES - Brazil.
-
-_______________
-
-Felipe e Aguiar (2021). Sentiment analysis with python. In: Github.
